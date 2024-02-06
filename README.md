@@ -1,3 +1,5 @@
+# WIP
+
 # Node + TypeScript + React Logger API
 
 ## Project Description
