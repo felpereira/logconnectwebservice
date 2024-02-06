@@ -1,4 +1,4 @@
-# WIP
+# WIP : work in progress
 
 # Node + TypeScript + React Logger API
 
